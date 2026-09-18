@@ -60,7 +60,7 @@ You only need:
 * .NET Framework 4.6+
 * `Newtonsoft.Json.dll`
 
-The minimum supported Windows version is **Windows Vista SP2**.
+The minimum supported Windows version is **Windows Vista SP2 (64-bit)**.
 
 No database, external web server, Node.js, Python, Docker, or other large framework is required.
 
